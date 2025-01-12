@@ -1,0 +1,16 @@
+C:\Users\erdbe\Documents\GitHub\InfoTech-MSCD-ENE-6\Module10-API\Week15\10-01-2025\ECommerce\Backend\ECommerce.Entity\bin\Debug\net8.0\ECommerce.Entity.deps.json
+C:\Users\erdbe\Documents\GitHub\InfoTech-MSCD-ENE-6\Module10-API\Week15\10-01-2025\ECommerce\Backend\ECommerce.Entity\bin\Debug\net8.0\ECommerce.Entity.dll
+C:\Users\erdbe\Documents\GitHub\InfoTech-MSCD-ENE-6\Module10-API\Week15\10-01-2025\ECommerce\Backend\ECommerce.Entity\bin\Debug\net8.0\ECommerce.Entity.pdb
+C:\Users\erdbe\Documents\GitHub\InfoTech-MSCD-ENE-6\Module10-API\Week15\10-01-2025\ECommerce\Backend\ECommerce.Entity\bin\Debug\net8.0\ECommerce.Shared.dll
+C:\Users\erdbe\Documents\GitHub\InfoTech-MSCD-ENE-6\Module10-API\Week15\10-01-2025\ECommerce\Backend\ECommerce.Entity\bin\Debug\net8.0\ECommerce.Shared.pdb
+C:\Users\erdbe\Documents\GitHub\InfoTech-MSCD-ENE-6\Module10-API\Week15\10-01-2025\ECommerce\Backend\ECommerce.Entity\obj\Debug\net8.0\ECommerce.Entity.csproj.AssemblyReference.cache
+C:\Users\erdbe\Documents\GitHub\InfoTech-MSCD-ENE-6\Module10-API\Week15\10-01-2025\ECommerce\Backend\ECommerce.Entity\obj\Debug\net8.0\ECommerce.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erdbe\Documents\GitHub\InfoTech-MSCD-ENE-6\Module10-API\Week15\10-01-2025\ECommerce\Backend\ECommerce.Entity\obj\Debug\net8.0\ECommerce.Entity.AssemblyInfoInputs.cache
+C:\Users\erdbe\Documents\GitHub\InfoTech-MSCD-ENE-6\Module10-API\Week15\10-01-2025\ECommerce\Backend\ECommerce.Entity\obj\Debug\net8.0\ECommerce.Entity.AssemblyInfo.cs
+C:\Users\erdbe\Documents\GitHub\InfoTech-MSCD-ENE-6\Module10-API\Week15\10-01-2025\ECommerce\Backend\ECommerce.Entity\obj\Debug\net8.0\ECommerce.Entity.csproj.CoreCompileInputs.cache
+C:\Users\erdbe\Documents\GitHub\InfoTech-MSCD-ENE-6\Module10-API\Week15\10-01-2025\ECommerce\Backend\ECommerce.Entity\obj\Debug\net8.0\ECommerce.Entity.sourcelink.json
+C:\Users\erdbe\Documents\GitHub\InfoTech-MSCD-ENE-6\Module10-API\Week15\10-01-2025\ECommerce\Backend\ECommerce.Entity\obj\Debug\net8.0\ECommerc.AF4C100A.Up2Date
+C:\Users\erdbe\Documents\GitHub\InfoTech-MSCD-ENE-6\Module10-API\Week15\10-01-2025\ECommerce\Backend\ECommerce.Entity\obj\Debug\net8.0\ECommerce.Entity.dll
+C:\Users\erdbe\Documents\GitHub\InfoTech-MSCD-ENE-6\Module10-API\Week15\10-01-2025\ECommerce\Backend\ECommerce.Entity\obj\Debug\net8.0\refint\ECommerce.Entity.dll
+C:\Users\erdbe\Documents\GitHub\InfoTech-MSCD-ENE-6\Module10-API\Week15\10-01-2025\ECommerce\Backend\ECommerce.Entity\obj\Debug\net8.0\ECommerce.Entity.pdb
+C:\Users\erdbe\Documents\GitHub\InfoTech-MSCD-ENE-6\Module10-API\Week15\10-01-2025\ECommerce\Backend\ECommerce.Entity\obj\Debug\net8.0\ref\ECommerce.Entity.dll

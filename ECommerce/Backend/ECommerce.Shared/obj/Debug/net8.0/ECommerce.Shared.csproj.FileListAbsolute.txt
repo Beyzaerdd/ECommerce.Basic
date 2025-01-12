@@ -1,0 +1,12 @@
+C:\Users\erdbe\Documents\GitHub\InfoTech-MSCD-ENE-6\Module10-API\Week15\10-01-2025\ECommerce\Backend\ECommerce.Shared\bin\Debug\net8.0\ECommerce.Shared.deps.json
+C:\Users\erdbe\Documents\GitHub\InfoTech-MSCD-ENE-6\Module10-API\Week15\10-01-2025\ECommerce\Backend\ECommerce.Shared\bin\Debug\net8.0\ECommerce.Shared.dll
+C:\Users\erdbe\Documents\GitHub\InfoTech-MSCD-ENE-6\Module10-API\Week15\10-01-2025\ECommerce\Backend\ECommerce.Shared\bin\Debug\net8.0\ECommerce.Shared.pdb
+C:\Users\erdbe\Documents\GitHub\InfoTech-MSCD-ENE-6\Module10-API\Week15\10-01-2025\ECommerce\Backend\ECommerce.Shared\obj\Debug\net8.0\ECommerce.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erdbe\Documents\GitHub\InfoTech-MSCD-ENE-6\Module10-API\Week15\10-01-2025\ECommerce\Backend\ECommerce.Shared\obj\Debug\net8.0\ECommerce.Shared.AssemblyInfoInputs.cache
+C:\Users\erdbe\Documents\GitHub\InfoTech-MSCD-ENE-6\Module10-API\Week15\10-01-2025\ECommerce\Backend\ECommerce.Shared\obj\Debug\net8.0\ECommerce.Shared.AssemblyInfo.cs
+C:\Users\erdbe\Documents\GitHub\InfoTech-MSCD-ENE-6\Module10-API\Week15\10-01-2025\ECommerce\Backend\ECommerce.Shared\obj\Debug\net8.0\ECommerce.Shared.csproj.CoreCompileInputs.cache
+C:\Users\erdbe\Documents\GitHub\InfoTech-MSCD-ENE-6\Module10-API\Week15\10-01-2025\ECommerce\Backend\ECommerce.Shared\obj\Debug\net8.0\ECommerce.Shared.sourcelink.json
+C:\Users\erdbe\Documents\GitHub\InfoTech-MSCD-ENE-6\Module10-API\Week15\10-01-2025\ECommerce\Backend\ECommerce.Shared\obj\Debug\net8.0\ECommerce.Shared.dll
+C:\Users\erdbe\Documents\GitHub\InfoTech-MSCD-ENE-6\Module10-API\Week15\10-01-2025\ECommerce\Backend\ECommerce.Shared\obj\Debug\net8.0\refint\ECommerce.Shared.dll
+C:\Users\erdbe\Documents\GitHub\InfoTech-MSCD-ENE-6\Module10-API\Week15\10-01-2025\ECommerce\Backend\ECommerce.Shared\obj\Debug\net8.0\ECommerce.Shared.pdb
+C:\Users\erdbe\Documents\GitHub\InfoTech-MSCD-ENE-6\Module10-API\Week15\10-01-2025\ECommerce\Backend\ECommerce.Shared\obj\Debug\net8.0\ref\ECommerce.Shared.dll

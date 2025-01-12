@@ -1,0 +1,590 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60EA2DD6-C552-414A-80F1-774E26AC9C71}|Backend\\ECommerce.API\\ECommerce.API.csproj|c:\\users\\erdbe\\documents\\github\\ecommerce.basic\\ecommerce\\backend\\ecommerce.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{60EA2DD6-C552-414A-80F1-774E26AC9C71}|Backend\\ECommerce.API\\ECommerce.API.csproj|solutionrelative:backend\\ecommerce.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B491B54-C727-4B38-BCF1-045CAD14D448}|Frontend\\ECommerce.MVC\\ECommerce.MVC.csproj|c:\\users\\erdbe\\documents\\github\\ecommerce.basic\\ecommerce\\frontend\\ecommerce.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9B491B54-C727-4B38-BCF1-045CAD14D448}|Frontend\\ECommerce.MVC\\ECommerce.MVC.csproj|solutionrelative:frontend\\ecommerce.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65AB2A9F-A65D-4451-97B3-90757893603B}|Backend\\ECommerce.Entity\\ECommerce.Entity.csproj|c:\\users\\erdbe\\documents\\github\\ecommerce.basic\\ecommerce\\backend\\ecommerce.entity\\concrete\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65AB2A9F-A65D-4451-97B3-90757893603B}|Backend\\ECommerce.Entity\\ECommerce.Entity.csproj|solutionrelative:backend\\ecommerce.entity\\concrete\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65AB2A9F-A65D-4451-97B3-90757893603B}|Backend\\ECommerce.Entity\\ECommerce.Entity.csproj|c:\\users\\erdbe\\documents\\github\\ecommerce.basic\\ecommerce\\backend\\ecommerce.entity\\concrete\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65AB2A9F-A65D-4451-97B3-90757893603B}|Backend\\ECommerce.Entity\\ECommerce.Entity.csproj|solutionrelative:backend\\ecommerce.entity\\concrete\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B491B54-C727-4B38-BCF1-045CAD14D448}|Frontend\\ECommerce.MVC\\ECommerce.MVC.csproj|c:\\users\\erdbe\\documents\\github\\ecommerce.basic\\ecommerce\\frontend\\ecommerce.mvc\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B491B54-C727-4B38-BCF1-045CAD14D448}|Frontend\\ECommerce.MVC\\ECommerce.MVC.csproj|solutionrelative:frontend\\ecommerce.mvc\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B491B54-C727-4B38-BCF1-045CAD14D448}|Frontend\\ECommerce.MVC\\ECommerce.MVC.csproj|c:\\users\\erdbe\\documents\\github\\ecommerce.basic\\ecommerce\\frontend\\ecommerce.mvc\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B491B54-C727-4B38-BCF1-045CAD14D448}|Frontend\\ECommerce.MVC\\ECommerce.MVC.csproj|solutionrelative:frontend\\ecommerce.mvc\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65AB2A9F-A65D-4451-97B3-90757893603B}|Backend\\ECommerce.Entity\\ECommerce.Entity.csproj|c:\\users\\erdbe\\documents\\github\\ecommerce.basic\\ecommerce\\backend\\ecommerce.entity\\concrete\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65AB2A9F-A65D-4451-97B3-90757893603B}|Backend\\ECommerce.Entity\\ECommerce.Entity.csproj|solutionrelative:backend\\ecommerce.entity\\concrete\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55912F5F-57B5-471B-96BC-55C8CE6C0FAB}|Backend\\ECommerce.Business\\ECommerce.Business.csproj|c:\\users\\erdbe\\documents\\github\\ecommerce.basic\\ecommerce\\backend\\ecommerce.business\\concrete\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55912F5F-57B5-471B-96BC-55C8CE6C0FAB}|Backend\\ECommerce.Business\\ECommerce.Business.csproj|solutionrelative:backend\\ecommerce.business\\concrete\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAA65EA-27E4-44B3-A587-6631CC903CDF}|Backend\\ECommerce.Shared\\ECommerce.Shared.csproj|c:\\users\\erdbe\\documents\\github\\ecommerce.basic\\ecommerce\\backend\\ecommerce.shared\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFAA65EA-27E4-44B3-A587-6631CC903CDF}|Backend\\ECommerce.Shared\\ECommerce.Shared.csproj|solutionrelative:backend\\ecommerce.shared\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B491B54-C727-4B38-BCF1-045CAD14D448}|Frontend\\ECommerce.MVC\\ECommerce.MVC.csproj|c:\\users\\erdbe\\documents\\github\\ecommerce.basic\\ecommerce\\frontend\\ecommerce.mvc\\models\\orderitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B491B54-C727-4B38-BCF1-045CAD14D448}|Frontend\\ECommerce.MVC\\ECommerce.MVC.csproj|solutionrelative:frontend\\ecommerce.mvc\\models\\orderitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B491B54-C727-4B38-BCF1-045CAD14D448}|Frontend\\ECommerce.MVC\\ECommerce.MVC.csproj|c:\\users\\erdbe\\documents\\github\\ecommerce.basic\\ecommerce\\frontend\\ecommerce.mvc\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B491B54-C727-4B38-BCF1-045CAD14D448}|Frontend\\ECommerce.MVC\\ECommerce.MVC.csproj|solutionrelative:frontend\\ecommerce.mvc\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B491B54-C727-4B38-BCF1-045CAD14D448}|Frontend\\ECommerce.MVC\\ECommerce.MVC.csproj|c:\\users\\erdbe\\documents\\github\\ecommerce.basic\\ecommerce\\frontend\\ecommerce.mvc\\models\\basketitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B491B54-C727-4B38-BCF1-045CAD14D448}|Frontend\\ECommerce.MVC\\ECommerce.MVC.csproj|solutionrelative:frontend\\ecommerce.mvc\\models\\basketitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B491B54-C727-4B38-BCF1-045CAD14D448}|Frontend\\ECommerce.MVC\\ECommerce.MVC.csproj|c:\\users\\erdbe\\documents\\github\\ecommerce.basic\\ecommerce\\frontend\\ecommerce.mvc\\models\\basketmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B491B54-C727-4B38-BCF1-045CAD14D448}|Frontend\\ECommerce.MVC\\ECommerce.MVC.csproj|solutionrelative:frontend\\ecommerce.mvc\\models\\basketmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B491B54-C727-4B38-BCF1-045CAD14D448}|Frontend\\ECommerce.MVC\\ECommerce.MVC.csproj|c:\\users\\erdbe\\documents\\github\\ecommerce.basic\\ecommerce\\frontend\\ecommerce.mvc\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B491B54-C727-4B38-BCF1-045CAD14D448}|Frontend\\ECommerce.MVC\\ECommerce.MVC.csproj|solutionrelative:frontend\\ecommerce.mvc\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B491B54-C727-4B38-BCF1-045CAD14D448}|Frontend\\ECommerce.MVC\\ECommerce.MVC.csproj|c:\\users\\erdbe\\documents\\github\\ecommerce.basic\\ecommerce\\frontend\\ecommerce.mvc\\models\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B491B54-C727-4B38-BCF1-045CAD14D448}|Frontend\\ECommerce.MVC\\ECommerce.MVC.csproj|solutionrelative:frontend\\ecommerce.mvc\\models\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B491B54-C727-4B38-BCF1-045CAD14D448}|Frontend\\ECommerce.MVC\\ECommerce.MVC.csproj|c:\\users\\erdbe\\documents\\github\\ecommerce.basic\\ecommerce\\frontend\\ecommerce.mvc\\models\\tokenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B491B54-C727-4B38-BCF1-045CAD14D448}|Frontend\\ECommerce.MVC\\ECommerce.MVC.csproj|solutionrelative:frontend\\ecommerce.mvc\\models\\tokenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B491B54-C727-4B38-BCF1-045CAD14D448}|Frontend\\ECommerce.MVC\\ECommerce.MVC.csproj|c:\\users\\erdbe\\documents\\github\\ecommerce.basic\\ecommerce\\frontend\\ecommerce.mvc\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B491B54-C727-4B38-BCF1-045CAD14D448}|Frontend\\ECommerce.MVC\\ECommerce.MVC.csproj|solutionrelative:frontend\\ecommerce.mvc\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B491B54-C727-4B38-BCF1-045CAD14D448}|Frontend\\ECommerce.MVC\\ECommerce.MVC.csproj|c:\\users\\erdbe\\documents\\github\\ecommerce.basic\\ecommerce\\frontend\\ecommerce.mvc\\models\\homeindexmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B491B54-C727-4B38-BCF1-045CAD14D448}|Frontend\\ECommerce.MVC\\ECommerce.MVC.csproj|solutionrelative:frontend\\ecommerce.mvc\\models\\homeindexmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC01E3D3-26C9-4D07-ADDC-459744BAC416}|Backend\\ECommerce.Data\\ECommerce.Data.csproj|c:\\users\\erdbe\\documents\\github\\ecommerce.basic\\ecommerce\\backend\\ecommerce.data\\concrete\\contexts\\ecommercedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC01E3D3-26C9-4D07-ADDC-459744BAC416}|Backend\\ECommerce.Data\\ECommerce.Data.csproj|solutionrelative:backend\\ecommerce.data\\concrete\\contexts\\ecommercedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65AB2A9F-A65D-4451-97B3-90757893603B}|Backend\\ECommerce.Entity\\ECommerce.Entity.csproj|c:\\users\\erdbe\\documents\\github\\ecommerce.basic\\ecommerce\\backend\\ecommerce.entity\\concrete\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65AB2A9F-A65D-4451-97B3-90757893603B}|Backend\\ECommerce.Entity\\ECommerce.Entity.csproj|solutionrelative:backend\\ecommerce.entity\\concrete\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60EA2DD6-C552-414A-80F1-774E26AC9C71}|Backend\\ECommerce.API\\ECommerce.API.csproj|c:\\users\\erdbe\\documents\\github\\ecommerce.basic\\ecommerce\\backend\\ecommerce.api\\controllers\\basketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60EA2DD6-C552-414A-80F1-774E26AC9C71}|Backend\\ECommerce.API\\ECommerce.API.csproj|solutionrelative:backend\\ecommerce.api\\controllers\\basketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60EA2DD6-C552-414A-80F1-774E26AC9C71}|Backend\\ECommerce.API\\ECommerce.API.csproj|c:\\users\\erdbe\\documents\\github\\ecommerce.basic\\ecommerce\\backend\\ecommerce.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60EA2DD6-C552-414A-80F1-774E26AC9C71}|Backend\\ECommerce.API\\ECommerce.API.csproj|solutionrelative:backend\\ecommerce.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55912F5F-57B5-471B-96BC-55C8CE6C0FAB}|Backend\\ECommerce.Business\\ECommerce.Business.csproj|c:\\users\\erdbe\\documents\\github\\ecommerce.basic\\ecommerce\\backend\\ecommerce.business\\concrete\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55912F5F-57B5-471B-96BC-55C8CE6C0FAB}|Backend\\ECommerce.Business\\ECommerce.Business.csproj|solutionrelative:backend\\ecommerce.business\\concrete\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55912F5F-57B5-471B-96BC-55C8CE6C0FAB}|Backend\\ECommerce.Business\\ECommerce.Business.csproj|c:\\users\\erdbe\\documents\\github\\ecommerce.basic\\ecommerce\\backend\\ecommerce.business\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55912F5F-57B5-471B-96BC-55C8CE6C0FAB}|Backend\\ECommerce.Business\\ECommerce.Business.csproj|solutionrelative:backend\\ecommerce.business\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55912F5F-57B5-471B-96BC-55C8CE6C0FAB}|Backend\\ECommerce.Business\\ECommerce.Business.csproj|c:\\users\\erdbe\\documents\\github\\ecommerce.basic\\ecommerce\\backend\\ecommerce.business\\concrete\\basketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55912F5F-57B5-471B-96BC-55C8CE6C0FAB}|Backend\\ECommerce.Business\\ECommerce.Business.csproj|solutionrelative:backend\\ecommerce.business\\concrete\\basketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAA65EA-27E4-44B3-A587-6631CC903CDF}|Backend\\ECommerce.Shared\\ECommerce.Shared.csproj|c:\\users\\erdbe\\documents\\github\\ecommerce.basic\\ecommerce\\backend\\ecommerce.shared\\complextypes\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFAA65EA-27E4-44B3-A587-6631CC903CDF}|Backend\\ECommerce.Shared\\ECommerce.Shared.csproj|solutionrelative:backend\\ecommerce.shared\\complextypes\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAA65EA-27E4-44B3-A587-6631CC903CDF}|Backend\\ECommerce.Shared\\ECommerce.Shared.csproj|c:\\users\\erdbe\\documents\\github\\ecommerce.basic\\ecommerce\\backend\\ecommerce.shared\\responsedtos\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFAA65EA-27E4-44B3-A587-6631CC903CDF}|Backend\\ECommerce.Shared\\ECommerce.Shared.csproj|solutionrelative:backend\\ecommerce.shared\\responsedtos\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAA65EA-27E4-44B3-A587-6631CC903CDF}|Backend\\ECommerce.Shared\\ECommerce.Shared.csproj|c:\\users\\erdbe\\documents\\github\\ecommerce.basic\\ecommerce\\backend\\ecommerce.shared\\responsedtos\\nocontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFAA65EA-27E4-44B3-A587-6631CC903CDF}|Backend\\ECommerce.Shared\\ECommerce.Shared.csproj|solutionrelative:backend\\ecommerce.shared\\responsedtos\\nocontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAA65EA-27E4-44B3-A587-6631CC903CDF}|Backend\\ECommerce.Shared\\ECommerce.Shared.csproj|c:\\users\\erdbe\\documents\\github\\ecommerce.basic\\ecommerce\\backend\\ecommerce.shared\\responsedtos\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFAA65EA-27E4-44B3-A587-6631CC903CDF}|Backend\\ECommerce.Shared\\ECommerce.Shared.csproj|solutionrelative:backend\\ecommerce.shared\\responsedtos\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55912F5F-57B5-471B-96BC-55C8CE6C0FAB}|Backend\\ECommerce.Business\\ECommerce.Business.csproj|c:\\users\\erdbe\\documents\\github\\ecommerce.basic\\ecommerce\\backend\\ecommerce.business\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55912F5F-57B5-471B-96BC-55C8CE6C0FAB}|Backend\\ECommerce.Business\\ECommerce.Business.csproj|solutionrelative:backend\\ecommerce.business\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55912F5F-57B5-471B-96BC-55C8CE6C0FAB}|Backend\\ECommerce.Business\\ECommerce.Business.csproj|c:\\users\\erdbe\\documents\\github\\ecommerce.basic\\ecommerce\\backend\\ecommerce.business\\abstract\\iimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55912F5F-57B5-471B-96BC-55C8CE6C0FAB}|Backend\\ECommerce.Business\\ECommerce.Business.csproj|solutionrelative:backend\\ecommerce.business\\abstract\\iimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55912F5F-57B5-471B-96BC-55C8CE6C0FAB}|Backend\\ECommerce.Business\\ECommerce.Business.csproj|c:\\users\\erdbe\\documents\\github\\ecommerce.basic\\ecommerce\\backend\\ecommerce.business\\abstract\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55912F5F-57B5-471B-96BC-55C8CE6C0FAB}|Backend\\ECommerce.Business\\ECommerce.Business.csproj|solutionrelative:backend\\ecommerce.business\\abstract\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC01E3D3-26C9-4D07-ADDC-459744BAC416}|Backend\\ECommerce.Data\\ECommerce.Data.csproj|c:\\users\\erdbe\\documents\\github\\ecommerce.basic\\ecommerce\\backend\\ecommerce.data\\concrete\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC01E3D3-26C9-4D07-ADDC-459744BAC416}|Backend\\ECommerce.Data\\ECommerce.Data.csproj|solutionrelative:backend\\ecommerce.data\\concrete\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC01E3D3-26C9-4D07-ADDC-459744BAC416}|Backend\\ECommerce.Data\\ECommerce.Data.csproj|c:\\users\\erdbe\\documents\\github\\ecommerce.basic\\ecommerce\\backend\\ecommerce.data\\concrete\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC01E3D3-26C9-4D07-ADDC-459744BAC416}|Backend\\ECommerce.Data\\ECommerce.Data.csproj|solutionrelative:backend\\ecommerce.data\\concrete\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\erdbe\\Documents\\GitHub\\InfoTech-MSCD-ENE-6\\Module10-API\\Week15\\10-01-2025\\ECommerce\\Backend\\ECommerce.Data\\Migrations\\ECommerceDbContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Backend\\ECommerce.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Backend\\ECommerce.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Backend\\ECommerce.API\\appsettings.json",
+              "RelativeToolTip": "Backend\\ECommerce.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-12T18:39:09.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Frontend\\ECommerce.MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "Frontend\\ECommerce.MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Frontend\\ECommerce.MVC\\appsettings.json",
+              "RelativeToolTip": "Frontend\\ECommerce.MVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-12T18:38:53.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Backend\\ECommerce.Shared\\DTOs\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "Backend\\ECommerce.Shared\\DTOs\\OrderDTO.cs",
+              "ToolTip": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Backend\\ECommerce.Shared\\DTOs\\OrderDTO.cs",
+              "RelativeToolTip": "Backend\\ECommerce.Shared\\DTOs\\OrderDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T12:24:20.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Frontend\\ECommerce.MVC\\Models\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "Frontend\\ECommerce.MVC\\Models\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Frontend\\ECommerce.MVC\\Models\\RegisterModel.cs",
+              "RelativeToolTip": "Frontend\\ECommerce.MVC\\Models\\RegisterModel.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA3wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T11:55:05.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Frontend\\ECommerce.MVC\\Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "Frontend\\ECommerce.MVC\\Models\\ProductModel.cs",
+              "ToolTip": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Frontend\\ECommerce.MVC\\Models\\ProductModel.cs",
+              "RelativeToolTip": "Frontend\\ECommerce.MVC\\Models\\ProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T11:55:04.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Frontend\\ECommerce.MVC\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Frontend\\ECommerce.MVC\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Frontend\\ECommerce.MVC\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Frontend\\ECommerce.MVC\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T10:23:43.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BasketModel.cs",
+              "DocumentMoniker": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Frontend\\ECommerce.MVC\\Models\\BasketModel.cs",
+              "RelativeDocumentMoniker": "Frontend\\ECommerce.MVC\\Models\\BasketModel.cs",
+              "ToolTip": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Frontend\\ECommerce.MVC\\Models\\BasketModel.cs",
+              "RelativeToolTip": "Frontend\\ECommerce.MVC\\Models\\BasketModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T11:54:51.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Backend\\ECommerce.Entity\\Concrete\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Backend\\ECommerce.Entity\\Concrete\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Backend\\ECommerce.Entity\\Concrete\\ApplicationUser.cs",
+              "RelativeToolTip": "Backend\\ECommerce.Entity\\Concrete\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T09:59:44.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Backend\\ECommerce.Business\\Concrete\\OrderService.cs",
+              "RelativeDocumentMoniker": "Backend\\ECommerce.Business\\Concrete\\OrderService.cs",
+              "ToolTip": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Backend\\ECommerce.Business\\Concrete\\OrderService.cs",
+              "RelativeToolTip": "Backend\\ECommerce.Business\\Concrete\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T12:24:29.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Backend\\ECommerce.Entity\\Concrete\\Product.cs",
+              "RelativeDocumentMoniker": "Backend\\ECommerce.Entity\\Concrete\\Product.cs",
+              "ToolTip": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Backend\\ECommerce.Entity\\Concrete\\Product.cs",
+              "RelativeToolTip": "Backend\\ECommerce.Entity\\Concrete\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T18:49:25.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Backend\\ECommerce.Entity\\Concrete\\Order.cs",
+              "RelativeDocumentMoniker": "Backend\\ECommerce.Entity\\Concrete\\Order.cs",
+              "ToolTip": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Backend\\ECommerce.Entity\\Concrete\\Order.cs",
+              "RelativeToolTip": "Backend\\ECommerce.Entity\\Concrete\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T12:24:36.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BasketItemModel.cs",
+              "DocumentMoniker": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Frontend\\ECommerce.MVC\\Models\\BasketItemModel.cs",
+              "RelativeDocumentMoniker": "Frontend\\ECommerce.MVC\\Models\\BasketItemModel.cs",
+              "ToolTip": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Frontend\\ECommerce.MVC\\Models\\BasketItemModel.cs",
+              "RelativeToolTip": "Frontend\\ECommerce.MVC\\Models\\BasketItemModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T11:54:49.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryModel.cs",
+              "DocumentMoniker": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Frontend\\ECommerce.MVC\\Models\\CategoryModel.cs",
+              "RelativeDocumentMoniker": "Frontend\\ECommerce.MVC\\Models\\CategoryModel.cs",
+              "ToolTip": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Frontend\\ECommerce.MVC\\Models\\CategoryModel.cs",
+              "RelativeToolTip": "Frontend\\ECommerce.MVC\\Models\\CategoryModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T11:54:53.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderItemModel.cs",
+              "DocumentMoniker": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Frontend\\ECommerce.MVC\\Models\\OrderItemModel.cs",
+              "RelativeDocumentMoniker": "Frontend\\ECommerce.MVC\\Models\\OrderItemModel.cs",
+              "ToolTip": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Frontend\\ECommerce.MVC\\Models\\OrderItemModel.cs",
+              "RelativeToolTip": "Frontend\\ECommerce.MVC\\Models\\OrderItemModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T11:54:57.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Frontend\\ECommerce.MVC\\Models\\ResponseModel.cs",
+              "RelativeDocumentMoniker": "Frontend\\ECommerce.MVC\\Models\\ResponseModel.cs",
+              "ToolTip": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Frontend\\ECommerce.MVC\\Models\\ResponseModel.cs",
+              "RelativeToolTip": "Frontend\\ECommerce.MVC\\Models\\ResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T12:23:43.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TokenModel.cs",
+              "DocumentMoniker": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Frontend\\ECommerce.MVC\\Models\\TokenModel.cs",
+              "RelativeDocumentMoniker": "Frontend\\ECommerce.MVC\\Models\\TokenModel.cs",
+              "ToolTip": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Frontend\\ECommerce.MVC\\Models\\TokenModel.cs",
+              "RelativeToolTip": "Frontend\\ECommerce.MVC\\Models\\TokenModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T12:23:40.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderModel.cs",
+              "DocumentMoniker": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Frontend\\ECommerce.MVC\\Models\\OrderModel.cs",
+              "RelativeDocumentMoniker": "Frontend\\ECommerce.MVC\\Models\\OrderModel.cs",
+              "ToolTip": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Frontend\\ECommerce.MVC\\Models\\OrderModel.cs",
+              "RelativeToolTip": "Frontend\\ECommerce.MVC\\Models\\OrderModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T11:55:00.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeIndexModel.cs",
+              "DocumentMoniker": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Frontend\\ECommerce.MVC\\Models\\HomeIndexModel.cs",
+              "RelativeDocumentMoniker": "Frontend\\ECommerce.MVC\\Models\\HomeIndexModel.cs",
+              "ToolTip": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Frontend\\ECommerce.MVC\\Models\\HomeIndexModel.cs",
+              "RelativeToolTip": "Frontend\\ECommerce.MVC\\Models\\HomeIndexModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T11:54:55.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ECommerceDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Backend\\ECommerce.Data\\Concrete\\Contexts\\ECommerceDbContext.cs",
+              "RelativeDocumentMoniker": "Backend\\ECommerce.Data\\Concrete\\Contexts\\ECommerceDbContext.cs",
+              "ToolTip": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Backend\\ECommerce.Data\\Concrete\\Contexts\\ECommerceDbContext.cs",
+              "RelativeToolTip": "Backend\\ECommerce.Data\\Concrete\\Contexts\\ECommerceDbContext.cs",
+              "ViewState": "AgIAAE4BAAAAAAAAAAAUwG8BAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T10:06:58.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ECommerceDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\erdbe\\Documents\\GitHub\\InfoTech-MSCD-ENE-6\\Module10-API\\Week15\\10-01-2025\\ECommerce\\Backend\\ECommerce.Data\\Migrations\\ECommerceDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "..\\..\\InfoTech-MSCD-ENE-6\\Module10-API\\Week15\\10-01-2025\\ECommerce\\Backend\\ECommerce.Data\\Migrations\\ECommerceDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\erdbe\\Documents\\GitHub\\InfoTech-MSCD-ENE-6\\Module10-API\\Week15\\10-01-2025\\ECommerce\\Backend\\ECommerce.Data\\Migrations\\ECommerceDbContextModelSnapshot.cs",
+              "RelativeToolTip": "..\\..\\InfoTech-MSCD-ENE-6\\Module10-API\\Week15\\10-01-2025\\ECommerce\\Backend\\ECommerce.Data\\Migrations\\ECommerceDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T10:06:19.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationRole.cs",
+              "DocumentMoniker": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Backend\\ECommerce.Entity\\Concrete\\ApplicationRole.cs",
+              "RelativeDocumentMoniker": "Backend\\ECommerce.Entity\\Concrete\\ApplicationRole.cs",
+              "ToolTip": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Backend\\ECommerce.Entity\\Concrete\\ApplicationRole.cs",
+              "RelativeToolTip": "Backend\\ECommerce.Entity\\Concrete\\ApplicationRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T09:59:41.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BasketsController.cs",
+              "DocumentMoniker": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Backend\\ECommerce.API\\Controllers\\BasketsController.cs",
+              "RelativeDocumentMoniker": "Backend\\ECommerce.API\\Controllers\\BasketsController.cs",
+              "ToolTip": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Backend\\ECommerce.API\\Controllers\\BasketsController.cs",
+              "RelativeToolTip": "Backend\\ECommerce.API\\Controllers\\BasketsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T08:52:12.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Backend\\ECommerce.Business\\Concrete\\AuthService.cs",
+              "RelativeDocumentMoniker": "Backend\\ECommerce.Business\\Concrete\\AuthService.cs",
+              "ToolTip": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Backend\\ECommerce.Business\\Concrete\\AuthService.cs",
+              "RelativeToolTip": "Backend\\ECommerce.Business\\Concrete\\AuthService.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T08:51:12.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Backend\\ECommerce.Business\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Backend\\ECommerce.Business\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Backend\\ECommerce.Business\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "Backend\\ECommerce.Business\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T08:50:37.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BasketService.cs",
+              "DocumentMoniker": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Backend\\ECommerce.Business\\Concrete\\BasketService.cs",
+              "RelativeDocumentMoniker": "Backend\\ECommerce.Business\\Concrete\\BasketService.cs",
+              "ToolTip": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Backend\\ECommerce.Business\\Concrete\\BasketService.cs",
+              "RelativeToolTip": "Backend\\ECommerce.Business\\Concrete\\BasketService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T08:50:13.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Backend\\ECommerce.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Backend\\ECommerce.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Backend\\ECommerce.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Backend\\ECommerce.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T08:50:08.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Backend\\ECommerce.Shared\\ComplexTypes\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "Backend\\ECommerce.Shared\\ComplexTypes\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Backend\\ECommerce.Shared\\ComplexTypes\\OrderStatus.cs",
+              "RelativeToolTip": "Backend\\ECommerce.Shared\\ComplexTypes\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T08:45:09.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Backend\\ECommerce.Shared\\ResponseDTOs\\ResponseModel.cs",
+              "RelativeDocumentMoniker": "Backend\\ECommerce.Shared\\ResponseDTOs\\ResponseModel.cs",
+              "ToolTip": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Backend\\ECommerce.Shared\\ResponseDTOs\\ResponseModel.cs",
+              "RelativeToolTip": "Backend\\ECommerce.Shared\\ResponseDTOs\\ResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T08:34:29.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "NoContent.cs",
+              "DocumentMoniker": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Backend\\ECommerce.Shared\\ResponseDTOs\\NoContent.cs",
+              "RelativeDocumentMoniker": "Backend\\ECommerce.Shared\\ResponseDTOs\\NoContent.cs",
+              "ToolTip": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Backend\\ECommerce.Shared\\ResponseDTOs\\NoContent.cs",
+              "RelativeToolTip": "Backend\\ECommerce.Shared\\ResponseDTOs\\NoContent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T08:34:25.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Backend\\ECommerce.Shared\\ResponseDTOs\\ResponseDTO.cs",
+              "RelativeDocumentMoniker": "Backend\\ECommerce.Shared\\ResponseDTOs\\ResponseDTO.cs",
+              "ToolTip": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Backend\\ECommerce.Shared\\ResponseDTOs\\ResponseDTO.cs",
+              "RelativeToolTip": "Backend\\ECommerce.Shared\\ResponseDTOs\\ResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T08:34:20.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Backend\\ECommerce.Business\\Abstract\\IProductService.cs",
+              "RelativeDocumentMoniker": "Backend\\ECommerce.Business\\Abstract\\IProductService.cs",
+              "ToolTip": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Backend\\ECommerce.Business\\Abstract\\IProductService.cs",
+              "RelativeToolTip": "Backend\\ECommerce.Business\\Abstract\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T08:32:51.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Backend\\ECommerce.Business\\Abstract\\IEmailService.cs",
+              "RelativeDocumentMoniker": "Backend\\ECommerce.Business\\Abstract\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Backend\\ECommerce.Business\\Abstract\\IEmailService.cs",
+              "RelativeToolTip": "Backend\\ECommerce.Business\\Abstract\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T08:32:46.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Backend\\ECommerce.Data\\Concrete\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Backend\\ECommerce.Data\\Concrete\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Backend\\ECommerce.Data\\Concrete\\UnitOfWork.cs",
+              "RelativeToolTip": "Backend\\ECommerce.Data\\Concrete\\UnitOfWork.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T08:21:14.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Backend\\ECommerce.Data\\Concrete\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Backend\\ECommerce.Data\\Concrete\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Backend\\ECommerce.Data\\Concrete\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Backend\\ECommerce.Data\\Concrete\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T08:19:06.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IImageService.cs",
+              "DocumentMoniker": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Backend\\ECommerce.Business\\Abstract\\IImageService.cs",
+              "RelativeDocumentMoniker": "Backend\\ECommerce.Business\\Abstract\\IImageService.cs",
+              "ToolTip": "C:\\Users\\erdbe\\Documents\\GitHub\\ECommerce.Basic\\ECommerce\\Backend\\ECommerce.Business\\Abstract\\IImageService.cs",
+              "RelativeToolTip": "Backend\\ECommerce.Business\\Abstract\\IImageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T07:53:07.413Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
