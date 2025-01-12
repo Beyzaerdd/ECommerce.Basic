@@ -52,6 +52,8 @@ E-Ticaret Temel Projesi
 Bu, geliştiricilerin bir e-ticaret platformunun temel bileşenlerini anlamalarına ve uygulamalarına yardımcı olmak için tasarlanmış bir temel e-ticaret projesidir. MVC (Model-View-Controller) kullanıcı arayüzü için ve API arka uç hizmetleri için olmak üzere iki bölüme ayrılmıştır. Katmanlı mimari kullanılarak geliştirilen bu projede, güvenlik, sürdürülebilirlik ve ölçeklenebilirlik sağlanmak amacıyla çeşitli teknolojiler kullanılmıştır.
 
 🚀 Özellikler:
+
+
 MVC ve API Ayrımı:
  Proje, kullanıcı etkileşimi için MVC (Model-View-Controller) ve arka uç isteklerini işlemek için API olarak ikiye ayrılmıştır. Bu modüler yapı, sorumlulukların net bir şekilde ayrılmasına olanak tanır.
 
